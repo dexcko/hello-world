@@ -14,7 +14,8 @@ hello world
 `code`
 
 [maze generation algorithms](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
-![image](image.jpg)
+
+![awesome image](https://en.wikipedia.org/wiki/Maze_generation_algorithm#/media/File:Prim_Maze.svg)
 
 - [x] Write this sentence
 - [ ] Become best programmer in the world
