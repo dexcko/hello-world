@@ -15,7 +15,7 @@ hello world
 
 [maze generation algorithms](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
 
-![awesome image](https://en.wikipedia.org/wiki/Maze_generation_algorithm#/media/File:Prim_Maze.svg)
+![awesome image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Prim_Maze.svg/1024px-Prim_Maze.svg.png)
 
 - [x] Write this sentence
 - [ ] Become best programmer in the world
